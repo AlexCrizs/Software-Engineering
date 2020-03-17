@@ -5,7 +5,7 @@ Java命令行疫情上报系统
       
  
 
-版权又西北师范大学马强所有  
+版权由西北师范大学马强所有  
 详情请看博客https://www.cnblogs.com/AlexCrizs/
 
 
