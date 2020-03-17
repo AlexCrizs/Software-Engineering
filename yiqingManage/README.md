@@ -7,3 +7,7 @@ Java命令行疫情上报系统
 
 版权又西北师范大学马强所有
 详情请看博客https://www.cnblogs.com/AlexCrizs/
+
+
+Copyright by ma qiang, northwest normal university
+See the blog for details：https://www.cnblogs.com/AlexCrizs/
