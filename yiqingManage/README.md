@@ -2,6 +2,7 @@
 
 环境：jdk1.8  
       mysql5.5  
+      使用echart组件  
       
  
 
