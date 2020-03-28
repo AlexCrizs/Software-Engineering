@@ -7,7 +7,7 @@ public interface ManagerDao {
 //	验证登录
 	int login(Manager manager);
 
-//	增加用户信息
+//	增加新的用户信息
 	boolean insert(User user);
 
 //	删除用户信息
